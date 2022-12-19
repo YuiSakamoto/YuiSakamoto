@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuisakamoto" alt="yuisakamoto" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yui_tang" target="blank"><img src="https://img.shields.io/twitter/follow/yui_tang?logo=twitter&style=for-the-badge" alt="yui_tang" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/yui_tang" target="blank"><img src="https://img.shields.io/twitter/follow/yui_tang?logo=twitter&style=for-the-badge" alt="yui_tang" /></a>
+</p>
+<p align="left">
+  <a rel="me" href="https://mstdn.jp/@yui_tang">Mastodon</a>
+</p>
 
 - 📫 How to reach me **yuisakamoto0307@gmail.com**
 
